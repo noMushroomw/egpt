@@ -1,0 +1,4 @@
+# ignore all the data folder
+data/
+# ignore all the .pth files
+*.pth
