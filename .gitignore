@@ -2,3 +2,11 @@
 data/
 # ignore all the .pth files
 *.pth
+#ignore test files
+test.ipynb
+
+test_results/
+
+models/
+
+egpt.ipynb
