@@ -11,3 +11,4 @@ models/
 
 egpt.ipynb
 test_egpt.ipynb
+prune_outputs/
