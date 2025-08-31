@@ -1,14 +1,13 @@
-# ignore all the data folder
 data/
-# ignore all the .pth files
-*.pth
-#ignore test files
+
 test.ipynb
-
 test_results/
+test_egpt.ipynb
 
+prune_outputs/
 models/
+*.pth
 
 egpt.ipynb
-test_egpt.ipynb
-prune_outputs/
+
+.vscode/
