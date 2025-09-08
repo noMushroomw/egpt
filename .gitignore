@@ -12,3 +12,5 @@ models/
 egpt.ipynb
 
 .vscode/
+
+checkpoints_cnn_neff/
